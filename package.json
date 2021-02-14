@@ -1,0 +1,20 @@
+{
+  "name": "GraphQLFSApp",
+  "version": "1.0.0",
+  "description": "A GraphQL full stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldRyan/GraphQLFSApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeraldRyan/GraphQLFSApp/issues"
+  },
+  "homepage": "https://github.com/GeraldRyan/GraphQLFSApp#readme"
+}
