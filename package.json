@@ -4,6 +4,7 @@
   "description": "A GraphQL full stack application",
   "main": "index.js",
   "scripts": {
+    "watch": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node src/index.ts"
   },
